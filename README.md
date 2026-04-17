@@ -10,7 +10,7 @@
 
 
 
-<p align="left">👋 I'm an IT student at Universidad Politecnica de Aguascalientes.<br>💻 Currently honing my skills in Web Development at Indptdos Academy.<br>🎯 Aspiring Fullstack Developer with a clear path towards DevOps.<br>🗣️ I thrive in team environments, love talking to people, and always keep myself busy learning new things or enjoying my hobbies.</p>
+<p align="left">I'm an IT student at Universidad Politecnica de Aguascalientes.<br>Currently honing my skills in Web Development at Indptdos Academy.<br>Aspiring Fullstack Developer with a clear path towards DevOps.<br>I thrive in team environments, love talking to people, and always keep myself busy learning new things or enjoying my hobbies.</p>
 
 
 
